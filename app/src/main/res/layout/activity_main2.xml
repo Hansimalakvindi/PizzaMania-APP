@@ -37,7 +37,7 @@
         android:id="@+id/textView4"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Pizza handcrafted &amp; always delicious"
+        android:text="Pizza handcrafted and always delicious"
         android:textAlignment="center"
         android:textSize="16sp"
         app:layout_constraintTop_toBottomOf="@id/textView3"
